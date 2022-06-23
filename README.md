@@ -1,4 +1,4 @@
-# Configuration Maker
+# Configuration Maker [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Pr1meSuspec7/cfg-maker)
 
 This script helps engineers to create a lot of configuration files start from an excel file.
 
