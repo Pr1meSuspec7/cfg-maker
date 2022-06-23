@@ -7,3 +7,7 @@ interface GigabitEthernet0/0
 interface GigabitEthernet0/1 
  no shut
  ip address GIGABIT01 255.255.255.0
+
+interface GigabitEthernet0/2 
+ no shut
+ ip address GIGABIT02 255.255.255.0
