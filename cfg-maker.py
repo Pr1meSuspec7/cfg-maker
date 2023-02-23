@@ -83,7 +83,7 @@ dictkeys = list(xls.columns)
 # Function to replace template variables with excel sheet values 
 def replace_content(dictionary, file):
     for dictionarykey, dictionaryvalue in list(dictionary.items()):
-        file = sub(dictionarykey, dictionaryvalue, file)
+        file = sub(dictionarykey, str(dictionaryvalue), file)
     return file
 
 
