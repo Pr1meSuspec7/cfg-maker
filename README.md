@@ -17,7 +17,7 @@ It's recommended to crate a virtual environment, activate it and then install th
 For Windows:
 
 ```sh
-> git clone https://scm.dimensiondata.com/marco.palmieri/cfg-maker.git
+> git clone https://github.com/Pr1meSuspec7/cfg-maker.git
 > cd cfg-maker
 > python -m venv VENV-NAME
 > VENV-NAME\Scripts\activate.bat
@@ -27,7 +27,7 @@ For Windows:
 For Linux:
 
 ```sh
-$ git clone https://scm.dimensiondata.com/marco.palmieri/cfg-maker.git
+$ git clone https://github.com/Pr1meSuspec7/cfg-maker.git
 $ cd cfg-maker
 $ python -m venv VENV-NAME
 $ source VENV-NAME/bin/activate
